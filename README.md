@@ -1,0 +1,2 @@
+# magiccool
+My new project
